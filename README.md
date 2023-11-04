@@ -1,1 +1,3 @@
-# Spotify-Local-Files-RPC
+# Example
+
+![Example Image](https://i.imgur.com/oXwmGkE.png)
