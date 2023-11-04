@@ -1,0 +1,1 @@
+Transfer all of your audio files into this folder and then set this directory as Local Files in your Spotify settings
